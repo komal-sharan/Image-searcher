@@ -26,3 +26,5 @@ As of now the following urls of the images have been indexed\
 - GET /search/text?q="a dog"
 - GET /search/image?image_url=http://...
 """
+
+![Demo Image](demo/demo.png)
